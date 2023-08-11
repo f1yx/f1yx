@@ -9,7 +9,14 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=f1yx&theme=maroongold&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=f1yx&theme=maroongold&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### Badges
+
+<a href="https://github.com/f1yx" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f1yx&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
+https://www.codewars.com/users/f1yx/badges/large
+
 ---
 [![](https://visitcount.itsvg.in/api?id=f1yx&icon=3&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!-- created with https://gprm.itsvg.in + https://www.profileme.dev/create-profile -->
